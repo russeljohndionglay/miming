@@ -1,0 +1,7 @@
+body{
+    color: aqua;
+    background-image: url(IT.jpg);
+    border: solid;
+    border-width: 10px;
+    border-color: aqua;
+}
